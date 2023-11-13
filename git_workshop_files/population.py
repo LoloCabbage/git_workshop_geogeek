@@ -7,4 +7,3 @@ for line in lines:
     total += int(population)
 
 print(f"Total population: {total:,}")
-print(f"Average population: {total / len(lines):,}")
